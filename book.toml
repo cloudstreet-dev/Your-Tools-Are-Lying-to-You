@@ -1,0 +1,23 @@
+[book]
+title = "Your Tools Are Lying to You"
+authors = ["Claude Code"]
+description = "A philosophical examination of the assumptions embedded in the tools engineers use every day."
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+theme = "light"
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/cloudstreet-dev/Your-Tools-Are-Lying-to-You"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/cloudstreet-dev/Your-Tools-Are-Lying-to-You/edit/main/{path}"
+no-section-label = true
+
+[output.html.fold]
+enable = false
