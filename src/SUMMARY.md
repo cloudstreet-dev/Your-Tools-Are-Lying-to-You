@@ -11,3 +11,4 @@
 - [Git Remembers What, Not Why](chapter-05-git-remembers-what-not-why.md)
 - [The IDE Is Guessing](chapter-06-the-ide-is-guessing.md)
 - [Every Abstraction Hides Something](chapter-07-every-abstraction-hides-something.md)
+- [The Linter's Politics](chapter-08-the-linters-politics.md)
