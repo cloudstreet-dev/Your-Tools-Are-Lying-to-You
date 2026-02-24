@@ -12,3 +12,4 @@
 - [The IDE Is Guessing](chapter-06-the-ide-is-guessing.md)
 - [Every Abstraction Hides Something](chapter-07-every-abstraction-hides-something.md)
 - [The Linter's Politics](chapter-08-the-linters-politics.md)
+- [Documentation Decays](chapter-09-documentation-decays.md)
