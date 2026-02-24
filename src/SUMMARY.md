@@ -16,3 +16,4 @@
 - [The Dependency You Didn't Choose](chapter-10-the-dependency-you-did-not-choose.md)
 - [Stack Traces Speak Machine](chapter-11-stack-traces-speak-machine.md)
 - [Estimation Is a Different Skill](chapter-12-estimation-is-a-different-skill.md)
+- [The Model in Your Head](chapter-13-the-model-in-your-head.md)
