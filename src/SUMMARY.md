@@ -14,3 +14,4 @@
 - [The Linter's Politics](chapter-08-the-linters-politics.md)
 - [Documentation Decays](chapter-09-documentation-decays.md)
 - [The Dependency You Didn't Choose](chapter-10-the-dependency-you-did-not-choose.md)
+- [Stack Traces Speak Machine](chapter-11-stack-traces-speak-machine.md)
